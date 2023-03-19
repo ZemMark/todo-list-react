@@ -1,5 +1,5 @@
 import axios from "axios";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 axios.defaults.baseURL =
   "https://6412ba93232c91393dd438d4.mockapi.io/todos/test/todos";
 
